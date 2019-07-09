@@ -1,13 +1,14 @@
-# My very first web page
 
 Welcome
+# This is my very first web page
 
-## This is a h2
 
-### This is a h3
+## It comprises links with logos which can lead to the relevant wikipedia article
 
-#### This is a h4
+### Wikipedia links can be accessed either via the link with the name and the logo picture
 
-##### This is a h5
+#### Basic CSS and HTML5 was used for the page, devtools was used to clear the bugs on the way before deploying
 
-###### This is a h6
+##### Font-style is 'sans-sherif', becuase the 'Oswald' font is not supported by windows 
+
+###### This is 
